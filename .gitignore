@@ -1,0 +1,6 @@
+*.pyc
+log
+README.rst
+dist
+build
+novelSpider.egg-info

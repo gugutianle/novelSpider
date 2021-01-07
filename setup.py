@@ -12,7 +12,7 @@ setup(
     url='https://github.com/gugutianle/novelSpider',
     license='MIT License',
     author='gugutianle',
-    install_requires=[ 'beautifulsoup4==4.6.3', 'Cython>=0.29.7', 'lxml==4.3.0', 'requests==2.20.1', 'mysqlclient==1.3.7', 'SQLAlchemy==1.3.1'],
+    install_requires=[ 'beautifulsoup4==4.6.3', 'Cython>=0.29.7', 'lxml==4.6.2', 'requests==2.20.1', 'mysqlclient==1.3.7', 'SQLAlchemy==1.3.1'],
     author_email='gugutianle@ggo.la',
     description='采集中文小说网站的爬虫',
     long_description=long_description,
